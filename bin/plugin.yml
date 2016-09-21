@@ -1,0 +1,8 @@
+name: SurvivalGames
+autohr: MaxCode
+version: 1.0
+main: me.MaxCode.SurvivalGames.SurvivalGames
+commands:
+     sg:
+          usage:
+          default: op
